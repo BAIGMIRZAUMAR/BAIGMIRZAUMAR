@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BAIGMIRZAUMAR/米范
 - 👀 I’m interested in ...Computational Fluid Dynamics/Turbulance Flow, Ansys,Fluent, CFX, Fluid Mechanis 
 - 🌱 I’m currently learning ...Python Artificial intelligence
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ...Python beginners
 - 📫 How to reach me ...mifan20@mails.tsinghua.edu.cn
 
 <!---
